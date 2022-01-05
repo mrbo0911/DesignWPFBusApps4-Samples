@@ -1,0 +1,13 @@
+/.vs
+/Common.Library/obj
+/Common.Library/bin
+/WPF.Common/obj
+/WPF.Common/bin
+/WPF.Sample/obj
+/WPF.Sample/bin
+/WPF.Sample.AppLayer/obj
+/WPF.Sample.AppLayer/bin
+/WPF.Sample.DataLayer/obj
+/WPF.Sample.DataLayer/bin
+/WPF.Sample.ViewModelLayer/obj
+/WPF.Sample.ViewModelLayer/bin
